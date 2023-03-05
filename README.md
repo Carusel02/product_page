@@ -1,2 +1,2 @@
 # product_page
-Build a Technical Documentation Page
+Build a Product Page
